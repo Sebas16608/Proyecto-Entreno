@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rutina.apps.RutinaConfig',
     'user.apps.UserConfig',
     'rest_framework',
+    'coreapi',
 ]
 
 MIDDLEWARE = [
